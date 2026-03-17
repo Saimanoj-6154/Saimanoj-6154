@@ -1,4 +1,4 @@
-# 👨‍💻 Saimanoj Indrakanty | Electronics and Communication
+# 👨‍💻 Saimanoj Indrakanty 
 
 ## 🚀 About Me
 
