@@ -1,8 +1,4 @@
-# 👨‍💻 Saimanoj Indrakanty | ECE Research & Development
-
-Electronics and Communication Engineering student focused on building **AI-integrated hardware systems**, signal processing solutions, and advanced electronic designs.
-
----
+# 👨‍💻 Saimanoj Indrakanty | Electronics and Communication
 
 ## 🚀 About Me
 
@@ -67,9 +63,9 @@ Edge AI • Signal Intelligence • Intelligent Embedded Systems
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Saimanoj-6154\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saimanoj-6154\&layout=compact\&theme=tokyonight)
 
 ---
 
