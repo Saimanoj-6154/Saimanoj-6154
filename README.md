@@ -2,12 +2,8 @@
 
 ## 🚀 About Me
 
-🔭 I’m currently working on: AI-based embedded systems, disaster intelligence dashboard, and energy-based hardware projects
-👯 I’m looking to collaborate on: research in signal processing, embedded systems, RF, and VLSI
-🤝 I’m looking for help with: publishing research papers and advanced device modeling (TCAD)
-🌱 I’m currently learning: advanced communication systems, RF design, and AI/ML for electronics
-💬 Ask me about: embedded systems, electronics projects, signal processing, and simulation tools
-⚡ Fun fact: I design systems where hardware meets intelligence
+Electronics and Communication Engineering student focused on embedded systems, signal processing, and AI-integrated hardware. Skilled in C, C++, Python, Verilog, and ARM-based development, with experience in tools like Ansys and COMSOL. Passionate about building research-driven projects and advancing toward graduate studies in electrical engineering.
+
 
 ---
 
@@ -71,8 +67,8 @@
 
 ## 🧠 Research & Project Direction
 
-* AI + Embedded Systems for real-world applications
-* Multi-domain integration (AI + RF + Power + VLSI)
+* Embedded Systems for real-world applications
+* Multi-domain integration (TACD + RF + Power + VLSI)
 * Research-oriented system design and prototyping
 * IEEE paper publication pipeline
 
