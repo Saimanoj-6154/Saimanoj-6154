@@ -15,7 +15,7 @@ Electronics and Communication Engineering student focused on embedded systems, s
 ![C](https://img.shields.io/badge/C-blue)
 ![C++](https://img.shields.io/badge/C++-00599C)
 ![Python](https://img.shields.io/badge/Python-3776AB)
-![OOP](https://img.shields.io/badge/OOP-2C3E50)
+![OOP](https://img.shield| Electronics and Communications.io/badge/OOP-2C3E50)
 ![NumPy](https://img.shields.io/badge/NumPy-013243)
 ![Pandas](https://img.shields.io/badge/Pandas-150458)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6)
@@ -27,22 +27,21 @@ Electronics and Communication Engineering student focused on embedded systems, s
 
 ---
 
-### 🔌 Embedded Systems & RTOS
+### 🔌 Embedded Systems ,Signal Processing & Cicuit Design
 
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8B0000)
 ![QEMU](https://img.shields.io/badge/QEMU-FF8C00)
 ![OpenOCD](https://img.shields.io/badge/OpenOCD-2E8B57)
 ![GDB](https://img.shields.io/badge/GDB-696969)
-
----
-
-### 📡 Signal Processing & Communication
-
 ![MATLAB](https://img.shields.io/badge/MATLAB-red)
 ![Simulink](https://img.shields.io/badge/Simulink-FF6F00)
 ![GNU Radio](https://img.shields.io/badge/GNU_Radio-228B22)
 ![DSP](https://img.shields.io/badge/DSP-1E90FF)
 ![SDR](https://img.shields.io/badge/SDR-FF8C00)
+![LTspice](https://img.shields.io/badge/LTspice-1E90FF)
+![KiCad](https://img.shields.io/badge/KiCad-314CB6)
+![GTKWave](https://img.shields.io/badge/GTKWave-708090)
+![Verilator](https://img.shields.io/badge/Verilator-DAA520)
 
 ---
 
@@ -69,16 +68,6 @@ Electronics and Communication Engineering student focused on embedded systems, s
 ![Yosys](https://img.shields.io/badge/Yosys-556B2F)
 ![KLayout](https://img.shields.io/badge/KLayout-2F4F4F)
 
----
-
-### 🧪 Circuit Design & Verification
-
-![LTspice](https://img.shields.io/badge/LTspice-1E90FF)
-![KiCad](https://img.shields.io/badge/KiCad-314CB6)
-![GTKWave](https://img.shields.io/badge/GTKWave-708090)
-![Verilator](https://img.shields.io/badge/Verilator-DAA520)
-
----
 
 ## 🔬 Research Interests
 
@@ -100,13 +89,15 @@ Electronics and Communication Engineering student focused on embedded systems, s
 
 ## 🧠 Research & Project Direction
 
-* Embedded Systems for real-world applications
-* Multi-domain integration (TACD + RF + Power + VLSI)
-* Research-oriented system design and prototyping
-* IEEE paper publication pipeline
+* AI-integrated embedded systems for real-world, scalable applications
+* Multi-domain system design (TCAD + RF + Signal Processing + Power Electronics + VLSI)
+* High-performance communication and signal intelligence systems
+* Device modeling and simulation-driven hardware optimization
+* End-to-end prototyping: simulation → hardware → validation
+* IEEE-grade research, publication, and reproducible engineering workflows
 
 ---
 
 ## 🤝 Connect
 
-[LinkedIn](https://linkedin.com/Saimanoj-indrakanty) • [ResearchGate(https://www.researchgate.net/profile/Indrakanty-Sai-Manoj?ev=hdr_xprf)
+[LinkedIn](https://linkedin.com/Saimanoj-indrakanty) • [ResearchGate](https://www.researchgate.net/profile/Indrakanty-Sai-Manoj?ev=hdr_xprf)
