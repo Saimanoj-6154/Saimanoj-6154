@@ -48,17 +48,6 @@
 ![COMSOL](https://img.shields.io/badge/COMSOL-DC143C)
 ![LTspice](https://img.shields.io/badge/LTspice-1E90FF)
 
----
-
-### 🧠 AI/ML for Electronics
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8)
-![Edge AI](https://img.shields.io/badge/Edge_AI-2C3E50)
-![Signal Intelligence](https://img.shields.io/badge/Signal_Intelligence-6A5ACD)
-![Intelligent Embedded Systems](https://img.shields.io/badge/Intelligent_Embedded_Systems-34495E)
-
 
 ---
 
