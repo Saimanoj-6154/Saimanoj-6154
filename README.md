@@ -1,4 +1,4 @@
-# 👨‍💻 Manoj | ECE Research & Development
+# 👨‍💻 Saimanoj Indrakanty | ECE Research & Development
 
 Electronics and Communication Engineering student focused on building **AI-integrated hardware systems**, signal processing solutions, and advanced electronic designs.
 
@@ -84,4 +84,4 @@ Edge AI • Signal Intelligence • Intelligent Embedded Systems
 
 ## 🤝 Connect
 
-[LinkedIn](https://linkedin.com/) • [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://linkedin.com/Saimanoj-indrakanty) • [ResearchGate(https://www.researchgate.net/profile/Indrakanty-Sai-Manoj?ev=hdr_xprf)
