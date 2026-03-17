@@ -14,7 +14,7 @@ Electronics and Communication Engineering student focused on embedded systems, s
 
 ## ⚙️ Tech Stack & Research Focus
 
-### 💻 Programming
+### 💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-blue)
 ![C++](https://img.shields.io/badge/C++-00599C)
