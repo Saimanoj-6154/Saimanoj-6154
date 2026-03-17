@@ -32,22 +32,33 @@
 
 ### 📡 Communication & Signal Processing
 
-Digital Communication • DSP • Detection Theory • Wireless Systems • SDR
+![Digital Communication](https://img.shields.io/badge/Digital_Communication-0A66C2)
+![DSP](https://img.shields.io/badge/DSP-1E90FF)
+![Detection Theory](https://img.shields.io/badge/Detection_Theory-8A2BE2)
+![Wireless Systems](https://img.shields.io/badge/Wireless_Systems-228B22)
+![SDR](https://img.shields.io/badge/SDR-FF8C00)
+
+---
 
 ### ⚡ Simulation & EDA Tools
 
-![Ansys HFSS](https://img.shields.io/badge/Ansys_HFSS-yellow)
-![Ansys Maxwell](https://img.shields.io/badge/Ansys_Maxwell-yellow)
-![Q3D Extractor](https://img.shields.io/badge/Q3D_Extractor-yellow)
-![COMSOL](https://img.shields.io/badge/COMSOL-red)
-![LTspice](https://img.shields.io/badge/LTspice-blue)
+![Ansys HFSS](https://img.shields.io/badge/Ansys_HFSS-FFB000)
+![Ansys Maxwell](https://img.shields.io/badge/Ansys_Maxwell-FFB000)
+![Q3D Extractor](https://img.shields.io/badge/Q3D_Extractor-FFB000)
+![COMSOL](https://img.shields.io/badge/COMSOL-DC143C)
+![LTspice](https://img.shields.io/badge/LTspice-1E90FF)
+
+---
 
 ### 🧠 AI/ML for Electronics
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8)
-Edge AI • Signal Intelligence • Intelligent Embedded Systems
+![Edge AI](https://img.shields.io/badge/Edge_AI-2C3E50)
+![Signal Intelligence](https://img.shields.io/badge/Signal_Intelligence-6A5ACD)
+![Intelligent Embedded Systems](https://img.shields.io/badge/Intelligent_Embedded_Systems-34495E)
+
 
 ---
 
