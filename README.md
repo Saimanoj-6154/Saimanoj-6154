@@ -6,16 +6,20 @@ Electronics and Communication Engineering student focused on embedded systems, s
 
 
 ---
+## 🤝 Connect
+
+[LinkedIn](https://linkedin.com/Saimanoj-indrakanty) • [ResearchGate](https://www.researchgate.net/profile/Indrakanty-Sai-Manoj?ev=hdr_xprf) [ORCID](https://orcid.org/0009-0006-4757-4273)
+
+---
 
 ## ⚙️ Tech Stack & Research Focus
-## ⚙️ ECE Tech Stack
 
 ### 💻 Programming
 
 ![C](https://img.shields.io/badge/C-blue)
 ![C++](https://img.shields.io/badge/C++-00599C)
 ![Python](https://img.shields.io/badge/Python-3776AB)
-![OOP](https://img.shield| Electronics and Communications.io/badge/OOP-2C3E50)
+![OOP](https://img.shields.io/badge/OOP-2C3E50)
 ![NumPy](https://img.shields.io/badge/NumPy-013243)
 ![Pandas](https://img.shields.io/badge/Pandas-150458)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6)
@@ -98,6 +102,3 @@ Electronics and Communication Engineering student focused on embedded systems, s
 
 ---
 
-## 🤝 Connect
-
-[LinkedIn](https://linkedin.com/Saimanoj-indrakanty) • [ResearchGate](https://www.researchgate.net/profile/Indrakanty-Sai-Manoj?ev=hdr_xprf)
