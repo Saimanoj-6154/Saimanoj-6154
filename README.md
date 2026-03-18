@@ -8,7 +8,7 @@ Electronics and Communication Engineering student focused on embedded systems, s
 ---
 ## 🤝 Connect
 
-[LinkedIn](https://linkedin.com/saimanoj-indrakanty)  •  [ResearchGate](https://www.researchgate.net/profile/Indrakanty-Sai-Manoj?ev=hdr_xprf)  •   [ORCID](https://orcid.org/0009-0006-4757-4273)
+[LinkedIn](https://www.linkedin.com/in/saimanoj-indrakanty-b81b67263?utm_source=share_via&utm_content=profile&utm_medium=member_android)  •  [ResearchGate](https://www.researchgate.net/profile/Indrakanty-Sai-Manoj?ev=hdr_xprf)  •   [ORCID](https://orcid.org/0009-0006-4757-4273)
 
 ---
 
