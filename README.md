@@ -1,20 +1,20 @@
-# 👨‍💻 Saimanoj Indrakanty 
+#  Saimanoj Indrakanty 
 
-## 🚀 About Me
+## About Me
 
 Electronics and Communication Engineering student focused on embedded systems, signal processing, and AI-integrated hardware. Skilled in C, C++, Python, Verilog, and ARM-based development, with experience in tools like Ansys and COMSOL. Passionate about building research-driven projects and advancing toward graduate studies in electrical engineering.
 
 
 ---
-## 🤝 Connect
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/saimanoj-indrakanty-b81b67263?utm_source=share_via&utm_content=profile&utm_medium=member_android)  •  [ResearchGate](https://www.researchgate.net/profile/Indrakanty-Sai-Manoj?ev=hdr_xprf)  •   [ORCID](https://orcid.org/0009-0006-4757-4273)
 
 ---
 
-## ⚙️ Tech Stack & Research Focus
+##  Tech Stack & Research Focus
 
-### 💻 Programming Languages
+###  Programming Languages
 
 ![C](https://img.shields.io/badge/C-blue)
 ![C++](https://img.shields.io/badge/C++-00599C)
@@ -31,7 +31,7 @@ Electronics and Communication Engineering student focused on embedded systems, s
 
 ---
 
-### 🔌 Embedded Systems ,Signal Processing & Cicuit Design
+###  Embedded Systems ,Signal Processing & Cicuit Design
 
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8B0000)
 ![QEMU](https://img.shields.io/badge/QEMU-FF8C00)
@@ -49,7 +49,7 @@ Electronics and Communication Engineering student focused on embedded systems, s
 
 ---
 
-### ⚡ RF, EM & Multiphysics Simulation
+###  RF, EM & Multiphysics Simulation
 
 ![Ansys HFSS](https://img.shields.io/badge/Ansys_HFSS-FFB000)
 ![Ansys Maxwell](https://img.shields.io/badge/Ansys_Maxwell-FFB000)
@@ -60,7 +60,7 @@ Electronics and Communication Engineering student focused on embedded systems, s
 
 ---
 
-### 🔬 VLSI, TCAD & Physical Design
+###  VLSI, TCAD & Physical Design
 
 ![Silvaco DeckBuild](https://img.shields.io/badge/DeckBuild-6A5ACD)
 ![Silvaco Athena](https://img.shields.io/badge/Athena-6A5ACD)
@@ -73,7 +73,7 @@ Electronics and Communication Engineering student focused on embedded systems, s
 ![KLayout](https://img.shields.io/badge/KLayout-2F4F4F)
 
 
-## 🔬 Research Interests
+##  Research Interests
 
 * Signal Processing & Communication Systems
 * Embedded AI & Edge Intelligence
@@ -83,7 +83,7 @@ Electronics and Communication Engineering student focused on embedded systems, s
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Saimanoj-6154\&show_icons=true\&theme=tokyonight)
 
@@ -91,7 +91,7 @@ Electronics and Communication Engineering student focused on embedded systems, s
 
 ---
 
-## 🧠 Research & Project Direction
+##  Research & Project Direction
 
 * AI-integrated embedded systems for real-world, scalable applications
 * Multi-domain system design (TCAD + RF + Signal Processing + Power Electronics + VLSI)
