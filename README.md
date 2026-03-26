@@ -2,8 +2,9 @@
 
 ## About Me
 
-Electronics and Communication Engineering student focused on embedded systems, signal processing, and AI-integrated hardware. Skilled in C, C++, Python, Verilog, and ARM-based development, with experience in tools like Ansys and COMSOL. Passionate about building research-driven projects and advancing toward graduate studies in electrical engineering.
+I am a Silicon Systems Engineer specializing in Semiconductor Design and Verification, with a core focus on ensuring the functional correctness of complex SoC architectures. My technical expertise spans the full design lifecycle, from RTL Design and UVM-based Verification to Embedded Systems and Physical Design.
 
+Driven by a passion for the atomic limits of computation, my research interests lie at the intersection of Nanotechnology and Quantum Electronics. I am currently leveraging Silvaco TCAD and Ansys HFSS to explore sub-3nm device physics and cryogenic hardware reliability. My goal is to bridge the gap between industrial-grade engineering and the next generation of post-CMOS scientific innovation.  
 
 ---
 ## Connect
@@ -92,13 +93,16 @@ Electronics and Communication Engineering student focused on embedded systems, s
 ---
 
 ##  Research & Project Direction
+* Nanoelectronics & Quantum Hardware Architectures
 
-* AI-integrated embedded systems for real-world, scalable applications
-* Multi-domain system design (TCAD + RF + Signal Processing + Power Electronics + VLSI)
-* High-performance communication and signal intelligence systems
-* Device modeling and simulation-driven hardware optimization
-* End-to-end prototyping: simulation → hardware → validation
-* IEEE-grade research, publication, and reproducible engineering workflows
+* Hardware-Software Co-Design for Edge Intelligence
+
+* Electromagnetics & High-Frequency (RF/THz) System Design
+
+* Next-Gen Wireless Architectures & Digital Signal Processing
+
+* Power Electronics & Advanced Semiconductor Materials
+
 
 ---
 
