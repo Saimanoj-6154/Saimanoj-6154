@@ -76,23 +76,6 @@ Driven by a passion for the atomic limits of computation, my research interests 
 
 ##  Research Interests
 
-* Signal Processing & Communication Systems
-* Embedded AI & Edge Intelligence
-* Power Electronics & Energy Systems
-* VLSI & Device Modeling (TCAD)
-* RF & Electromagnetic Simulation
-
----
-
-##  GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Saimanoj-6154\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saimanoj-6154\&layout=compact\&theme=tokyonight)
-
----
-
-##  Research & Project Direction
 * Nanoelectronics & Quantum Hardware Architectures
 
 * Hardware-Software Co-Design for Edge Intelligence
@@ -105,4 +88,13 @@ Driven by a passion for the atomic limits of computation, my research interests 
 
 
 ---
+
+##  GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Saimanoj-6154\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saimanoj-6154\&layout=compact\&theme=tokyonight)
+
+---
+
 
