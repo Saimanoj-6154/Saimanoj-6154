@@ -92,9 +92,9 @@ Driven by a passion for the atomic limits of computation, my research interests 
 
 ##  GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Saimanoj-6154\&show_icons=true\&theme=tokyonight)
+![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saimanoj-6154&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saimanoj-6154\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saimanoj-6154&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
