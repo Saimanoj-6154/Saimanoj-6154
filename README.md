@@ -86,7 +86,7 @@ Driven by a passion for the atomic limits of computation, my research interests 
 
 ![Top Langs](https://github-readme-stats-five-lovat-86.vercel.app/api/top-langs/?username=Saimanoj-6154&layout=compact&theme=tokyonight&hide_border=true)
 
-![Streak]()
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
 ---
 
