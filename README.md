@@ -82,11 +82,11 @@ Driven by a passion for the atomic limits of computation, my research interests 
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-five-lovat-86.vercel.app/api?username=Saimanoj-6154&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Stats](https://github-readme-stats-five-lovat-86.vercel.app/api?username=Saimanoj-6154&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats-five-lovat-86.vercel.app/api/top-langs/?username=Saimanoj-6154&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats&cache_seconds=1800)
+
+![Streak](https://streak-stats.demolab.com?user=Saimanoj-6154)
 
 ---
 
