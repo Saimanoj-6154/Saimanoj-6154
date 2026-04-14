@@ -51,17 +51,6 @@ Driven by a passion for the atomic limits of computation, my research interests 
 
 ---
 
-###  RF, EM & Multiphysics Simulation
-
-![Ansys HFSS](https://img.shields.io/badge/Ansys_HFSS-FFB000)
-![Ansys Maxwell](https://img.shields.io/badge/Ansys_Maxwell-FFB000)
-![Ansys Icepak](https://img.shields.io/badge/Ansys_Icepak-FFB000)
-![Ansys SIwave](https://img.shields.io/badge/Ansys_SIwave-FFB000)
-![Q3D Extractor](https://img.shields.io/badge/Q3D_Extractor-FFB000)
-![COMSOL](https://img.shields.io/badge/COMSOL-DC143C)
-
----
-
 ###  VLSI, TCAD & Physical Design
 
 ![Silvaco DeckBuild](https://img.shields.io/badge/DeckBuild-6A5ACD)
@@ -73,6 +62,7 @@ Driven by a passion for the atomic limits of computation, my research interests 
 ![OpenROAD](https://img.shields.io/badge/OpenROAD-483D8B)
 ![Yosys](https://img.shields.io/badge/Yosys-556B2F)
 ![KLayout](https://img.shields.io/badge/KLayout-2F4F4F)
+![COMSOL](https://img.shields.io/badge/COMSOL-DC143C)
 
 
 ##  Research Interests
