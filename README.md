@@ -65,18 +65,6 @@ Driven by a passion for the atomic limits of computation, my research interests 
 ![COMSOL](https://img.shields.io/badge/COMSOL-DC143C)
 
 
-##  Research Interests
-
-* Nanoelectronics & Quantum Hardware Architectures
-
-* Hardware-Software Co-Design for Edge Intelligence
-
-* Electromagnetics & High-Frequency (RF/THz) System Design
-
-* Next-Gen Wireless Architectures & Digital Signal Processing
-
-* Power Electronics & Advanced Semiconductor Materials
-
 
 ---
 
