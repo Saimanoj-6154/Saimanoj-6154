@@ -2,9 +2,9 @@
 
 ## About Me
 
-I am a Silicon Systems Engineer specializing in Semiconductor Design and Verification, with a core focus on ensuring the functional correctness of complex SoC architectures. My technical expertise spans the full design lifecycle, from RTL Design and UVM-based Verification to Embedded Systems and Physical Design.
+I am a Silicon Systems Engineer specializing in Semiconductor Design and Verification, with a core focus on ensuring the functional correctness of complex SoC architectures. My technical expertise spans the full design lifecycle, from RTL Design and UVM-based Verification to Embedded Systems and Physical Design.I'm building toward a career in Digital VLSI — Design Verification, with RTL design as a secondary focus. My work spans Verilog, SystemVerilog, UVM, and SVA, alongside the surrounding FPGA and physical design toolchain — Vivado, Verilator, GTKWave, Yosys, OpenLane, and OpenROAD.
 
-Driven by a passion for the atomic limits of computation, my research interests lie at the intersection of Nanotechnology and Quantum Electronics. I am currently leveraging Silvaco TCAD and Ansys HFSS to explore sub-3nm device physics and cryogenic hardware reliability. My goal is to bridge the gap between industrial-grade engineering and the next generation of post-CMOS scientific innovation.  
+Right now I'm deep in an intensive VLSI prep cycle: working through SVA/UVM fundamentals and shipping a portfolio of hands-on practice projects, each with a self-recorded video walkthrough, to build both technical depth and the ability to explain my work clearly under interview conditions.Earlier work includes an FPGA-based cognitive radio pipeline combining spectrum sensing with a lightweight neural network for channel quality prediction, and a published paper on plant leaf disease detection using deep learning.  
 
 ---
 ## Connect
