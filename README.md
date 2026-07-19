@@ -26,8 +26,6 @@ Driven by a passion for the atomic limits of computation, my research interests 
 ![Pandas](https://img.shields.io/badge/Pandas-150458)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
-![PyWavelets](https://img.shields.io/badge/PyWavelets-4B8BBE)
-![Embedded C](https://img.shields.io/badge/Embedded_C-2C3E50)
 ![Verilog](https://img.shields.io/badge/Verilog-orange)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF4500)
 
