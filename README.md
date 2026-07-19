@@ -49,7 +49,7 @@ Driven by a passion for the atomic limits of computation, my research interests 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0)
-![rics-v](https://img.shields.io/badge/RISC-v-A83200)
+![Risc-V](https://img.shields.io/badge/RISC_v-A83200)
 
 
 ### VLSI & Physical Design
