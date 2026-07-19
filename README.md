@@ -41,23 +41,20 @@ Driven by a passion for the atomic limits of computation, my research interests 
 
 ---
 
-### Embedded Systems & FPGA Development
+
+### VLSI & FPGA Development
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-9C1006)
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600)
 ![Vivado](https://img.shields.io/badge/Vivado-C41E3A)
-![Zynq--7020](https://img.shields.io/badge/Zynq--7020-333333)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0)
 ![Risc-V](https://img.shields.io/badge/RISC_V-A83200)
-
-
-### VLSI & Physical Design
 ![OpenLane](https://img.shields.io/badge/OpenLane-6A5ACD)
 ![OpenROAD](https://img.shields.io/badge/OpenROAD-483D8B)
 ![Yosys](https://img.shields.io/badge/Yosys-556B2F)
 ![SymbiYosys](https://img.shields.io/badge/SymbiYosys-6B8E23)
-![Sky130](https://img.shields.io/badge/Sky130_PDK-8B4513)
+
 
 
 ---
