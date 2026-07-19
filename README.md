@@ -28,7 +28,7 @@ Driven by a passion for the atomic limits of computation, my research interests 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
 ![Verilog](https://img.shields.io/badge/Verilog-orange)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF4500)
-![Tcl](https://img.shields.io/badge/Tcl-3E7D9E?style=for-the-badge) 
+![Tcl](https://img.shields.io/badge/Tcl-3E7D9E) 
 ---
 
 ###  Embedded Systems ,Signal Processing & Cicuit Design
