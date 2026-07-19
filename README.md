@@ -33,26 +33,23 @@ Driven by a passion for the atomic limits of computation, my research interests 
 
 
 ### Verification & Methodology
-![UVM](https://img.shields.io/badge/UVM-6A0DAD?style=for-the-badge)
-![SVA](https://img.shields.io/badge/SVA-8B008B?style=for-the-badge)
-![Verilator](https://img.shields.io/badge/Verilator-B8860B?style=for-the-badge)
-![GTKWave](https://img.shields.io/badge/GTKWave-708090?style=for-the-badge)
-![ModelSim](https://img.shields.io/badge/ModelSim-4B5320?style=for-the-badge)
+![UVM](https://img.shields.io/badge/UVM-6A0DAD)
+![SVA](https://img.shields.io/badge/SVA-8B008B)
+![Verilator](https://img.shields.io/badge/Verilator-B8860B)
+![GTKWave](https://img.shields.io/badge/GTKWave-708090)
+![ModelSim](https://img.shields.io/badge/ModelSim-4B5320)
 
 ---
 
-###  VLSI, TCAD & Physical Design
+### Embedded Systems & FPGA Development
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-9C1006)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600)
+![Vivado](https://img.shields.io/badge/Vivado-C41E3A)
+![Zynq--7020](https://img.shields.io/badge/Zynq--7020-333333)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0)
 
-![Silvaco DeckBuild](https://img.shields.io/badge/DeckBuild-6A5ACD)
-![Silvaco Athena](https://img.shields.io/badge/Athena-6A5ACD)
-![Silvaco Atlas](https://img.shields.io/badge/Atlas-6A5ACD)
-![TonyPlot](https://img.shields.io/badge/TonyPlot-6A5ACD)
-![Extract](https://img.shields.io/badge/Extract-6A5ACD)
-![OpenLane](https://img.shields.io/badge/OpenLane-4B0082)
-![OpenROAD](https://img.shields.io/badge/OpenROAD-483D8B)
-![Yosys](https://img.shields.io/badge/Yosys-556B2F)
-![KLayout](https://img.shields.io/badge/KLayout-2F4F4F)
-![COMSOL](https://img.shields.io/badge/COMSOL-DC143C)
 
 
 
