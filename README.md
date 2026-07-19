@@ -31,21 +31,13 @@ Driven by a passion for the atomic limits of computation, my research interests 
 ![Tcl](https://img.shields.io/badge/Tcl-3E7D9E) 
 ---
 
-###  Embedded Systems ,Signal Processing & Cicuit Design
 
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8B0000)
-![QEMU](https://img.shields.io/badge/QEMU-FF8C00)
-![OpenOCD](https://img.shields.io/badge/OpenOCD-2E8B57)
-![GDB](https://img.shields.io/badge/GDB-696969)
-![MATLAB](https://img.shields.io/badge/MATLAB-red)
-![Simulink](https://img.shields.io/badge/Simulink-FF6F00)
-![GNU Radio](https://img.shields.io/badge/GNU_Radio-228B22)
-![DSP](https://img.shields.io/badge/DSP-1E90FF)
-![SDR](https://img.shields.io/badge/SDR-FF8C00)
-![LTspice](https://img.shields.io/badge/LTspice-1E90FF)
-![KiCad](https://img.shields.io/badge/KiCad-314CB6)
-![GTKWave](https://img.shields.io/badge/GTKWave-708090)
-![Verilator](https://img.shields.io/badge/Verilator-DAA520)
+### Verification & Methodology
+![UVM](https://img.shields.io/badge/UVM-6A0DAD?style=for-the-badge)
+![SVA](https://img.shields.io/badge/SVA-8B008B?style=for-the-badge)
+![Verilator](https://img.shields.io/badge/Verilator-B8860B?style=for-the-badge)
+![GTKWave](https://img.shields.io/badge/GTKWave-708090?style=for-the-badge)
+![ModelSim](https://img.shields.io/badge/ModelSim-4B5320?style=for-the-badge)
 
 ---
 
