@@ -1,4 +1,4 @@
-#  Saimanoj Indrakanty 
+  Saimanoj Indrakanty 
 
 ## About Me
 
@@ -12,7 +12,11 @@ Right now I'm deep in an intensive VLSI prep cycle: working through SVA/UVM fund
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/saimanoj-indrakanty-b81b67263/])
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)]([https://www.researchgate.net/profile/Sai-Manoj-Indrakanty?ev=hdr_xprf])
 
+## Connect
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saimanojindrakanty@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimanoj-indrakanty-b81b67263/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sai-Manoj-Indrakanty)
 ---
 
 ##  Tech Stack & Research Focus
