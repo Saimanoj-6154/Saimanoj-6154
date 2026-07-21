@@ -40,7 +40,9 @@ Right now I'm deep in an intensive VLSI prep cycle: working through SVA/UVM fund
 ![SVA](https://img.shields.io/badge/SVA-8B008B)
 ![Verilator](https://img.shields.io/badge/Verilator-B8860B)
 ![GTKWave](https://img.shields.io/badge/GTKWave-708090)
-![ModelSim](https://img.shields.io/badge/ModelSim-4B5320)
+![ModelSim](https://img.shields.io/badge/QuestaSim-4B5320)
+![Yosys](https://img.shields.io/badge/Yosys-556B2F)
+![SymbiYosys](https://img.shields.io/badge/SymbiYosys-6B8E23)
 
 ---
 
@@ -51,8 +53,6 @@ Right now I'm deep in an intensive VLSI prep cycle: working through SVA/UVM fund
 ![Risc-V](https://img.shields.io/badge/RISC_V-A83200)
 ![OpenLane](https://img.shields.io/badge/OpenLane-6A5ACD)
 ![OpenROAD](https://img.shields.io/badge/OpenROAD-483D8B)
-![Yosys](https://img.shields.io/badge/Yosys-556B2F)
-![SymbiYosys](https://img.shields.io/badge/SymbiYosys-6B8E23)
 ![ngSpice](https://img.shields.io/badge/ngSpice-7C238E)
 ![Klayout](https://img.shields.io/badge/Klayout-FF4500)
 
