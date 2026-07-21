@@ -64,8 +64,6 @@ Right now I'm deep in an intensive VLSI prep cycle: working through SVA/UVM fund
 
 ![Top Langs](https://github-readme-stats-five-lovat-86.vercel.app/api/top-langs/?username=Saimanoj-6154&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats&cache_seconds=1800)
 
-![GitHub Streak]([https://streak-stats.demolab.com?user=Saimanoj-6154&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=Saimanoj-6154&theme=tokyonight&hide_border=true))
-
 ---
 
 
