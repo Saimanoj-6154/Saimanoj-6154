@@ -52,7 +52,7 @@ Right now I'm deep in an intensive VLSI prep cycle: working through SVA/UVM fund
 ![OpenROAD](https://img.shields.io/badge/OpenROAD-483D8B)
 ![Yosys](https://img.shields.io/badge/Yosys-556B2F)
 ![SymbiYosys](https://img.shields.io/badge/SymbiYosys-6B8E23)
-![ngSpice](https://img.shields.io/badge/SymbiYosys-7C238E)
+![ngSpice](https://img.shields.io/badge/ngSpice-7C238E)
 
 
 ---
