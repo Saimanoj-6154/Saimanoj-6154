@@ -28,7 +28,10 @@ Right now I'm deep in an intensive VLSI prep cycle: working through SVA/UVM fund
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
 ![Verilog](https://img.shields.io/badge/Verilog-orange)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF4500)
-![Tcl](https://img.shields.io/badge/Tcl-3E7D9E) 
+![Tcl](https://img.shields.io/badge/Tcl-3E7D9E)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8)
+
 ---
 
 
@@ -44,8 +47,6 @@ Right now I'm deep in an intensive VLSI prep cycle: working through SVA/UVM fund
 
 ### VLSI & FPGA Development
 ![Vivado](https://img.shields.io/badge/Vivado-C41E3A)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0)
 ![Risc-V](https://img.shields.io/badge/RISC_V-A83200)
 ![OpenLane](https://img.shields.io/badge/OpenLane-6A5ACD)
