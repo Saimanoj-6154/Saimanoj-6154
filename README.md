@@ -43,8 +43,6 @@ Right now I'm deep in an intensive VLSI prep cycle: working through SVA/UVM fund
 
 
 ### VLSI & FPGA Development
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-9C1006)
-![QEMU](https://img.shields.io/badge/QEMU-FF6600)
 ![Vivado](https://img.shields.io/badge/Vivado-C41E3A)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8)
@@ -54,7 +52,7 @@ Right now I'm deep in an intensive VLSI prep cycle: working through SVA/UVM fund
 ![OpenROAD](https://img.shields.io/badge/OpenROAD-483D8B)
 ![Yosys](https://img.shields.io/badge/Yosys-556B2F)
 ![SymbiYosys](https://img.shields.io/badge/SymbiYosys-6B8E23)
-
+![ngSpice](https://img.shields.io/badge/SymbiYosys-7C238E)
 
 
 ---
